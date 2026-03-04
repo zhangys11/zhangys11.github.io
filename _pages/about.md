@@ -12,16 +12,6 @@ redirect_from:
 2006.06-2006.07: 华盛顿大学 / Washington University (Seattle, WA), ZJU-WA Outreach Program.   
 2019.02-2020.02: 伊利诺伊香槟分校 / University of Illinois Urbana-Champaign (Champaign, IL), CSC访问学者 / Visitiing Scholar
 
-主要经历 Experience
-======
-
-  2018.12 至今       浙江工商大学 副教授  
-  2019.02-2020.02    伊利诺伊香槟分校（Champaign, IL），CSC访问学者  
-  2015.06-2018.12    浙江工商大学 讲师  
-  2008.09-2015.06    浙江大学 生物医学工程 直博  
-  2006.06-2006.07    华盛顿大学 (Seattle, WA), ZJU-WA Outreach Program  
-  2003.09-2008.06    浙江大学 生物医学工程 本科  
- 
 
 代表性科研项目 Fundings
 ======
@@ -34,7 +24,7 @@ redirect_from:
   [6]国家留学基金委，项目名称：Context-Aware Evidence-based Clinical Decision Support (CDS) Services for Health Information System，项目编号：201808330609，2019-2020, PI  
 
 代表性科研论著 Publications
-------
+======
 
   [1]Matrix Factorization Based Dimensionality Reduction Algorithms - A Comparative Study on Spectroscopic Profiling Data [J]. Analytical Chemistry, SCI, IF 8.008. JCR Q1, 2022, doi: 10.1021/acs.analchem.2c01922, 中科院1区top, 第一作者  
   [2]Adaptive compressed sensing of Raman spectroscopic profiling data for discriminative tasks [J]. Talanta, SCI, IF 6.556. JCR Q1, 2020, doi: 10.1016/j.talanta.2019.120681, 中科院1区top, 第一作者  
@@ -58,8 +48,8 @@ redirect_from:
   [20]基于注意力机制的水果新鲜度检测可解释模型[J]. 中国食品学报, 2024, DOI:10.16429/j.1009-7848.2024.10.003，国家一级学会期刊，第一作者  
 
 
-学科建设及教学业绩 Teachings
-------
+学科建设及教学 Teachings
+======
 
   [1]担任信管系副系主任期间，申报并获批省一流专业，2021年  
   [2]《大数据与知识工程》课程建设，获批国家一流课程，2020年  
