@@ -124,6 +124,13 @@ def extract_author_info(config):
                 "username": "",
                 "url": author.get('orcid')
             })
+
+        if author.get('wos'):
+            profiles.append({
+                "network": "Web of Science",
+                "username": "",
+                "url": author.get('wos')
+            })
         
         if author.get('researchgate'):
             profiles.append({
