@@ -152,6 +152,6 @@ And that ladies and gentlemen is the strange, beautiful and honest story of quan
 ## Original source
 https://www.youtube.com/watch?v=kJgpfJXatfM
 
-## 經典摘錄
+經典摘錄 [^1] 
 
-你未看此花時，此花與汝心同歸於寂。你來看此花時，則此花顏色一時明白起來。 
+[^1]: 你未看此花時，此花與汝心同歸於寂。你來看此花時，則此花顏色一時明白起來。 

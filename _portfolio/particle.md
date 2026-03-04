@@ -8,7 +8,7 @@ collection: portfolio
 
 粒子並非通常認為的堅固小球，而是弥漫在空间中的特定場(field)的一種激發(excitation)。
 
-## 正文
+## 正文 
 
 A particle is often treated as the simplest thing physics can talk about.
 Something small, something localized, something that exists in a definite place and moves through space the way objects do at everyday scales.
@@ -113,16 +113,18 @@ From this perspective, matter is not assembled from rigid pieces stacked togethe
 This also explains why the same particle language applies across very different situations. The electron in a wire, the electron in an atom, and the electron recorded by a detector are not different entities. They are the same excitation interacting within different environments. The surroundings change.
 The governing rules do not. The takeaway is direct and practical. Particles are how the universe makes interactions discreet. They are how conserved quantities move in finite amounts. They permit stability without locking everything in place and variation without losing order. Without them, atoms would not hold together, chemistry would not operate, and matter would fail to persist. Thinking this way replaces the image of a universe built from tiny objects with one built from allowed activity. Nothing becomes vague. Nothing loses precision. The description gains consistency across scales. When physics speaks about particles, it is not describing little things dotting through empty space. It is describing how the underlying structure of reality registers interactions in countable, reliable ways. That perspective does not make the world harder to deal with. It makes the world workable. 
 
+[^1] [^2] [^3]
+
 Original Source: 
 https://www.youtube.com/watch?v=eWuv775pvsw
 
-## 經典摘錄
+經典摘錄 [^1] [^2] [^3]
 
-汝觀地性，麤為大地，細為微塵，至鄰虗塵，析彼極微色邊際相七分所成，更析鄰虗即實空性。阿難，若此鄰虗析成虗空，當知虗空出生色相。
+[^1]: 汝觀地性，麤為大地，細為微塵，至鄰虗塵，析彼極微色邊際相七分所成，更析鄰虗即實空性。阿難，若此鄰虗析成虗空，當知虗空出生色相。
 
-今云析一微塵為七分極微塵，又析一極微塵為七分極鄰虗塵。以鄰虗塵，實虗空性，更不可析，以同虗空故。既同虗空，了不可得，豈能成就世界耶？既不能成就世界，故云無塵相可求也。
+[^2]: 今云析一微塵為七分極微塵，又析一極微塵為七分極鄰虗塵。以鄰虗塵，實虗空性，更不可析，以同虗空故。既同虗空，了不可得，豈能成就世界耶？既不能成就世界，故云無塵相可求也。
 
-又說地、水、火、風本性圓融，周徧法界，湛然常住。若地性徧，云何容水？水性周徧，火則不生，復云何明水、火二性俱徧虗空，不相陵滅？
+[^3]: 又說地、水、火、風本性圓融，周徧法界，湛然常住。若地性徧，云何容水？水性周徧，火則不生，復云何明水、火二性俱徧虗空，不相陵滅？
 
 
 
