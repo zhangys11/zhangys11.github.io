@@ -1,5 +1,5 @@
 ---
-title: "[物理学] Feynman: Why Light Speed is the LIMIT? "
+title: "[物理学] Why Light Speed is the LIMIT?  | Richard Feynman "
 excerpt: "光速恰好是時空因果傳播的上限。空間運動和時間流逝構成了時空的兩個維度，根據相對論，時間膨脹和空間壓縮始終能夠保證對於任何參考系光速是恆定不變的。  
 對於靜止質量為0的粒子，如光，其速度分量達到上限，時間分量無分配，時間流逝停止，因此，出發和到達是同時完成的，出發地和目的地距離為0，宇宙凍結。"
 collection: portfolio

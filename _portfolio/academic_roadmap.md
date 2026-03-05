@@ -230,9 +230,8 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ## 心灵鸡汤 
 
-+ 慎独 | "Don’t do evil", especially when you are alone.
-+ 内观 / 内省，多读经典/圣贤书
-+ 正确的心态与异性交往 | Boys should stay aways from porns and unhealthy behaviors.
++ 慎独 / 内省; "Don’t do evil", especially when you are alone.
++ 正确的心态与异性交往; Boys should stay aways from porns and unhealthy behaviors.
 + 包容、开放： 井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也。
 + 做”一个脱离了低级趣味的人”，不要【长时间】沉溺于低层次快乐中。
 + 实践和参与。杜绝无所事事、没有深入参与感的精神内耗。

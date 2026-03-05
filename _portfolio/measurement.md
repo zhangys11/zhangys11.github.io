@@ -1,5 +1,5 @@
 ---
-title: "[物理学] How Richard Feynman Explained Quantum Physics "
+title: "[物理学] Quantum Physics | Richard Feynman"
 excerpt: "測量/觀測（measurement/observation）是一種相互作用（interaction），產生了事實（fact）。現實是參與的（reality is participatory）"
 collection: portfolio
 ---
